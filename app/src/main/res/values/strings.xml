@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Schedule My Reminder</string>
+    <string name="about">About</string>
+    <string name="about_content">Content of the about section can be changed from string.xml. Just edit "about_content" string and put whatever your want.</string>
+</resources>
